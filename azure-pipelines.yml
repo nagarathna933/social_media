@@ -23,7 +23,6 @@ jobs:
   - script: echo Job2
     displayName: 'Run a one-line script'ool:
 
-
 steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
